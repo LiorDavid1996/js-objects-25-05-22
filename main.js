@@ -1,26 +1,30 @@
+// משימת-אוביקטים 25.5.22
+// question 1
 // var manger ={
 //     firstName:"lior",
 //     lastName:"david",
 //     age:26,
 //     wage:70000
 // }
-
+//  console.log(manger);
+// question 2
 // var Employee={
 //     fullName:"aviel-taka",
 //     Birth:01/01/2000,
 //     email:"avielta38@gmail.com",
 //     Address:"herzel 35",
 // }
-
+// question3
 // var banana={
 //     name:"banana",
 //     color:"yellow",
 //     type:"fruit",
 // }
+// question 4,5,6
 // document.write(banana.name)
 // document.write(banana.color)
 // document.write(banana.type)
- 
+// question 7,8
 // var cllass ={
 //     class:"12",
 //     studentsNum :"5",
@@ -29,7 +33,7 @@
 // for(i=0;i<cllass. studentsaNmes.length;i++){
 //     document.write(cllass. studentsaNmes[i]+"<br>")
 // }
-
+// question 9,10
 // var Kindergarten={
 //     naniName:"rina",
 //     kidsNum:"10",
@@ -37,29 +41,37 @@
 // }
 // for(i=0;i<Kindergarten["kidsName"].length;i++){
 // document.write(Kindergarten.kidsName[i]+"<br>")}
-
+// question 11
 // var user=prompt("enter key")
 // document.write(Kindergarten[user])
-
+// question 12
 // var curs={};
 // curs.cursNum=prompt("enter curs num")
 // curs.students=prompt("enter students num")
 // curs.stAge=prompt("enter age")
 // console.log(curs);
-
-// var techer={}
-//  var keyFormUser=prompt("your key");
-//  var valueFormUser=prompt();
-//  techer[keyFormUser]=valueFormUser;
-//  console.log(techer);
-
+// question 13
+// // var techer={}
+// //  var keyFormUser=prompt("your key");
+// //  var valueFormUser=prompt();
+// //  techer[keyFormUser]=valueFormUser;
+// //  console.log(techer);
+// question 14
 //  var manger={}
 // for(var i=0;i<4;i++){
 //     var keyFormUser4=prompt("your key");
 //  var valueFormUser4=prompt();
 //  manger[keyFormUser4]=valueFormUser4;
 // }console.log( manger);
-
+// question 15
+// var user={
+//     firstName:prompt("enter your first name"),
+//     lastName:prompt("enter your last name"),
+//     email:prompt("enter your email"),
+//     password:prompt("enter your password"),
+// }
+// document.write("<div>"+user.firstName+"</div>"+"<div>"+user.lastName+"</div>"+"<div>"+user.email+"</div>"+"<div>"+user.password+"</div>" )
+// question 16
 // var carsArray=[]
 // for(var i=0;i<4;i++){
 //     var car={};
@@ -70,7 +82,7 @@
 //     document.write("<div>"+car.brand+""+car.color+""+car.year)
 
 // } console.log(carsArray);
-
+// question 17
 // function catFun (){
 //     for(var i=0;i<3 ;i++){
 //   var  cat={}
@@ -80,7 +92,7 @@
 //   cat.whit=prompt("enter cat whit")
 //   document.write("<h1>"+cat.name+" "+cat.year+" "+cat.type+" "+cat.whit+"</h1>")}
 // } catFun()
-
+// question 18
 // function dogsFun (){
 //     var user=prompt()
 //     for(var i=0;i<user ;i++){
@@ -91,7 +103,7 @@
 //  dogs.ornerName=prompt("enter cat whit")
 // document.write("<p>"+dogs.name+" "+dogs.year+" "+dogs.type+" "+dogs.ornerName +"</p>")}
 //     } dogsFun()
-
+// question 19
 // function bugObjects(){
 //     var user=prompt()
 //     for(i=0;i<user;i++){
@@ -105,7 +117,7 @@
 //      }
 //     }
 // }bugObjects()
-
+// question 20
 // function kidsInKindergartenObjects(){
 //     var user=prompt("enter the number of kids")
 //     for(i=0;i<user;i++){
@@ -118,7 +130,7 @@
 //     }
 // }
 // }kidsInKindergartenObjects()
-
+// question 21
 // function pcObjects(pc){
 // for(i=0;i<=pc;i++){
 //    var Computers={}
@@ -131,7 +143,7 @@
 // }
 // }
 // }pcObjects(3)
-
+// question 22
 // function teacher(teacherNum){
 //     for(var i=0;i<teacherNum;i++){
 //         var teacher={}
@@ -144,7 +156,7 @@
 //         }
 //     }
 // }teacher(2)
-
+// question 23
 // function furnitureObjects(furn){
 //     for(i=0;i<furn;i++){
 //       var  furniture={}
@@ -155,7 +167,7 @@
 //     }
 //      document.write(+"<br>"+ furniture.array)
 // }furnitureObjects(2)
-
+// question 24
 // function apartmentObjects(aprt){
 //     for(var i=0;i<aprt;i++){
 //     var apartment={}
@@ -169,7 +181,7 @@
 //     }
 // }
 // }apartmentObjects(3)
-
+// question 25
 // function bitHabad(){
 //     var user=prompt("numbers of Country")
 //     for(i=0;i<user;i++){
@@ -183,4 +195,9 @@
 //      }
 // }
 // }bitHabad()
+
+// 
+
+
+
 
